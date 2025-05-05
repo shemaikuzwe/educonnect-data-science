@@ -1,0 +1,1 @@
+git pull  : used to sync / pull changes from remote repository (github) to your local repository
